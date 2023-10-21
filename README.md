@@ -2,9 +2,9 @@
 
 We built a Drone for our engineering clinics project. The end product looks like the below images:
 
-![WhatsApp Image 2023-08-27 at 11 08 20 (1)](https://github.com/Rasmika-b/Drone-Initiation/assets/60094457/f54fe122-76f2-4165-9c71-293de9d07a64)
+![GitHub Image](/img/drone1.jpeg)
 
-![WhatsApp Image 2023-08-27 at 11 08 20](https://github.com/Rasmika-b/Drone-Initiation/assets/60094457/6bbccbb4-e97c-40e4-94fc-b038ccdd295f)
+![GitHub Image](/img/drone2.jpeg)
 
 The equipments used are Raspberry Pi Kit, Drone Kit, and a Dual Boot Software. Not adding the codes or any methods as you can easily find this on other resources. 
 
